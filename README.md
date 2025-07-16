@@ -6,3 +6,4 @@
 
 ## Quests
 - 기본명령어 연습문제 : [연습문제](codes/quests/basic_linux_commands.md)
+- 기본명령어 연습문제 : [연습문제](codes/quests/basic_more_linux_commands.md)
