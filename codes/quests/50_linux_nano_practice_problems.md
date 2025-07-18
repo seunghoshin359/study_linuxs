@@ -107,6 +107,10 @@ DEBUG=true
 [fedora@localhost shell_practice]$ cd ./logs/ && touch access.log && ls -l && cd ..
 total 0
 -rw-r--r--. 1 fedora fedora 0 Jul 18 15:16 access.log
+[fedora@localhost shell_practice]$ chmod 777 server.conf
+[fedora@localhost shell_practice]$ chmod 777 data.txt
+[fedora@localhost shell_practice]$ chmod 777 backup.sh
+[fedora@localhost shell_practice]$ chmod 777 sysinfo.sh
 
 
 ```
