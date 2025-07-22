@@ -928,4 +928,17 @@ login.defs        login_notice.txt
 
 
 
+
+
+
+
+[fedora@localhost ~]$ cd /home/fedora/Downloads/
+[fedora@localhost Downloads]$ su - fedora
+Password: 
+-bash: /etc/login_notice.txt: Permission denied
+
+welcome, fedora
+rm: cannot remove '/home/fedora/Downloads/*': No such file or directory
+
+
 ```
