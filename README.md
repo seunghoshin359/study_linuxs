@@ -15,3 +15,4 @@
 - 리눅스 매니지 퍼미션 연습문제: [연습문제](/codes/quests/52_linux_Manage-permissions.md)
 - 프로파일 env 연습문제 : [연습문제](/codes/quests/60_profiles_env.md)
 - 유용한텍스트컨트롤 연습문제 : [연습문제](/codes/quests/70_useful_text_controls.md)
+쉘스크립트변수받아들이기 연습문제 : [연습문제](/codes/quests/80_1_shell_script_variables.md)
