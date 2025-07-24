@@ -17,3 +17,4 @@
 - 유용한텍스트컨트롤 연습문제 : [연습문제](/codes/quests/70_useful_text_controls.md)
 쉘스크립트변수받아들이기 연습문제 : [연습문제](/codes/quests/80_1_shell_script_variables.md)
 쉘변수read 연습문제 : [연습문제](/codes/quests/80_2_shell_variables_read.md)
+쉘변수3연습문제 : [연습문제](/codes/quests/80_3_shell_variables.md)
