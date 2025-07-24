@@ -18,3 +18,4 @@
 쉘스크립트변수받아들이기 연습문제 : [연습문제](/codes/quests/80_1_shell_script_variables.md)
 쉘변수read 연습문제 : [연습문제](/codes/quests/80_2_shell_variables_read.md)
 쉘변수3연습문제 : [연습문제](/codes/quests/80_3_shell_variables.md)
+vim기초연습 : [연습문제](/codes/quests/10_2_ssh_vims.md)
