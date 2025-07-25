@@ -19,3 +19,4 @@
 쉘변수read 연습문제 : [연습문제](/codes/quests/80_2_shell_variables_read.md)
 쉘변수3연습문제 : [연습문제](/codes/quests/80_3_shell_variables.md)
 vim기초연습 : [연습문제](/codes/quests/10_2_ssh_vims.md)
+if문 연습문제 : [연습문제](/codes/quests/10_3_ssh_withshell_ifs.md)
